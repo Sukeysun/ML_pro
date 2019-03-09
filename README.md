@@ -6,5 +6,8 @@ Linear  regression
 　　　　download： http://archive.ics.uci.edu/ml/machine-learning-databases/00294/
    
 Decision Tree:   iris data    
-KNN :   
+KNN :   generate data    
+svm : generate data  
+
+
 
