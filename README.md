@@ -8,6 +8,8 @@ Linear  regression
 Decision Tree:   iris data    
 KNN :   generate data    
 svm : generate data  
+Adaboost: generate data  
+GBDT: data is uploaded to GBDT file
 
 
 
